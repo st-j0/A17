@@ -24,10 +24,10 @@ global.prefa = ["."];                                    //Default prefix here. 
 global.Owner = ["50942630567", "50948703348"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.OwnerNumber = ["50942630567", "50948703348"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.ownertag = ["50942630567"];
-global.OwnerName = "Ariel";
-global.BotName = "A17";
-global.packname = "A17 Bot";                             //Do not change.
-global.author = "By: Ariel";                               //Do not change.
+global.OwnerName = "༺█▬█ █ ▀█▀༻▓ 𝐀𝐑𝐈𝐄𝐋 ▒";
+global.BotName = "༺█▬█ █ ▀█▀༻";
+global.packname = "༺༻▓ 𝐀𝐑𝐈𝐄𝐋 ▒";                             //Do not change.
+global.author = "By:༺█▬█ █ ▀█▀༻▓ 𝐀𝐑𝐈𝐄𝐋 ▒ ";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai0071/A17"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
@@ -80,9 +80,9 @@ global.ntilink = []
 //
 global.mess = {
   jobdone: 'Here you go...',
-  useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
+  useradmin: 'seul les administrateurs peuvent utiliser cette commande *Baka*!',
   botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-  botowner: 'Only my *Owner* can use this command, Baka!',
+  botowner: 'seul *Ariel* peut utiliser cette commande, Baka!',
   grouponly: 'This command is only made for *Groups*, Baka!',
   privateonly: 'This command is only made for *Private Chat*, Baka!',
   botonly: 'Only the *Bot itself* can use this command!',
